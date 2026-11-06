@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+GeneratedTimeTables/
+*.xlsx
+*.pdf
+*.json
+!timetable_20260520_014934.json  # Keep the pre-populated data if needed
